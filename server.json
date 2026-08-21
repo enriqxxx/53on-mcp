@@ -1,0 +1,10 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.53on/directory",
+  "title": "53ON",
+  "description": "Directory and marketplace of local businesses and independent professionals near you.",
+  "version": "1.0.0",
+  "remotes": [
+    { "type": "streamable-http", "url": "https://53on.com/mcp" }
+  ]
+}
